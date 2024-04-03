@@ -1,0 +1,15 @@
+<template>
+  <div style="min-height: 100vh">
+    <h1>This is an about page</h1>
+  </div>
+</template>
+
+<style>
+@media (min-width: 1024px) {
+  .about {
+    
+    display: flex;
+    align-items: center;
+  }
+}
+</style>
